@@ -1,7 +1,7 @@
 
-<h1 align="center"> Big Bang Burger Website Project </h1> 
+<h1 align="center"> LinkedIn Project </h1> 
 
-<p align="center">Website inspired by Okumura Foods - Big Bang Burger - from <a href="https://www.atlus.com/persona5/home.html">Persona 5 </a>
+<p align="center">Project inspired by <a href="https://www.linkedin.com/in/chrystine-martins-o-v/">LinkedIn</a>
 
 <p align="center">  
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img alt="Joker at Big Bang Burger" src="./img/joker-eating.PNG" width="55%">
+  <img alt="Imagem do Projeto" src="./img/joker-eating.PNG" width="55%">
 </p>
 
 
@@ -27,8 +27,8 @@
 
 ## ✨ Features
 
-- Menu with checkbox;
 - Page Integration
+- Responsive layout
 
 ## 💻 Project
 
